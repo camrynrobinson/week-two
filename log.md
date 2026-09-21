@@ -1,0 +1,3 @@
+- Billings Estate (2100 Cabot st.) --> Sept 28 (Group A)
+- Kobotools is pretty intuitive except for the fact that somehow, by preventing the website from prompting me with a pop-up to confirm that i do in fact want to delete a selected question, i have lost the ability to delete questions entirely. other than this, which is more my fault than kobotools's, it's a neat tool.
+- Email Larry Thompson @ B.A.L. to inquire about possible subjects for study & data collection within the lab 
