@@ -1,0 +1,4 @@
+- Data feminism
+- representations of sex in data
+- ethical classification: balancing statistical value with dignity and humanity
+- what gets counted counts!!! 
