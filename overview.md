@@ -131,7 +131,6 @@ Developed in Canada! Need to survey for natural resource management, used aerial
 
 Reminds me of how people used to believe they had been implanted with spyware in Schizophrenic/mental health crises even before that technology existed.
 
-<div style="text-align: center;"><img src="imgs/img_in_image_box_180_3182_2689_4322.jpg" alt="Image" width="68%" /></div>
 
 
 temporary archaeology
